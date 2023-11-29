@@ -1,0 +1,16 @@
+C:\Users\MalathumkarDurgaPras\source\repos\Delegates\BtnDelegate\bin\Debug\net6.0-windows\BtnDelegate.exe
+C:\Users\MalathumkarDurgaPras\source\repos\Delegates\BtnDelegate\bin\Debug\net6.0-windows\BtnDelegate.deps.json
+C:\Users\MalathumkarDurgaPras\source\repos\Delegates\BtnDelegate\bin\Debug\net6.0-windows\BtnDelegate.runtimeconfig.json
+C:\Users\MalathumkarDurgaPras\source\repos\Delegates\BtnDelegate\bin\Debug\net6.0-windows\BtnDelegate.dll
+C:\Users\MalathumkarDurgaPras\source\repos\Delegates\BtnDelegate\bin\Debug\net6.0-windows\BtnDelegate.pdb
+C:\Users\MalathumkarDurgaPras\source\repos\Delegates\BtnDelegate\obj\Debug\net6.0-windows\BtnDelegate.Form1.resources
+C:\Users\MalathumkarDurgaPras\source\repos\Delegates\BtnDelegate\obj\Debug\net6.0-windows\BtnDelegate.csproj.GenerateResource.cache
+C:\Users\MalathumkarDurgaPras\source\repos\Delegates\BtnDelegate\obj\Debug\net6.0-windows\BtnDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MalathumkarDurgaPras\source\repos\Delegates\BtnDelegate\obj\Debug\net6.0-windows\BtnDelegate.AssemblyInfoInputs.cache
+C:\Users\MalathumkarDurgaPras\source\repos\Delegates\BtnDelegate\obj\Debug\net6.0-windows\BtnDelegate.AssemblyInfo.cs
+C:\Users\MalathumkarDurgaPras\source\repos\Delegates\BtnDelegate\obj\Debug\net6.0-windows\BtnDelegate.csproj.CoreCompileInputs.cache
+C:\Users\MalathumkarDurgaPras\source\repos\Delegates\BtnDelegate\obj\Debug\net6.0-windows\BtnDelegate.dll
+C:\Users\MalathumkarDurgaPras\source\repos\Delegates\BtnDelegate\obj\Debug\net6.0-windows\refint\BtnDelegate.dll
+C:\Users\MalathumkarDurgaPras\source\repos\Delegates\BtnDelegate\obj\Debug\net6.0-windows\BtnDelegate.pdb
+C:\Users\MalathumkarDurgaPras\source\repos\Delegates\BtnDelegate\obj\Debug\net6.0-windows\BtnDelegate.genruntimeconfig.cache
+C:\Users\MalathumkarDurgaPras\source\repos\Delegates\BtnDelegate\obj\Debug\net6.0-windows\ref\BtnDelegate.dll
